@@ -29,7 +29,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  
+  #automatically build a sitemap.xml file which should improves SEO? -jsk
+  - jekyll-sitemap
 # Google Analytics
 google_analytics: UA-106576925-1
 
