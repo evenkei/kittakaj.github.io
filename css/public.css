@@ -2,11 +2,11 @@ body {
     font-size: 130%;
 	background-color: white;
 }
-@media(min-width:60em){
+/*@media(min-width:60em){
 	body {
 		font-size:100%;
 	}
-}
+}*/
 h1 {
     color: black;
 	margin: 20px 0 0 0;
