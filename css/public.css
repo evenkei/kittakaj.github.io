@@ -4,8 +4,7 @@ body {
 }
 @media(min-width:900px){
 	body {
-		font-size:300%;
-		color: red;
+		font-size:125%;
 	}
 }
 h1 {
@@ -40,6 +39,15 @@ div#main {
 	padding: 10px 40px;
 	margin: 0 auto 140px auto;
 	text-align: left;
+}
+@media(min-width:900px){
+	div#main {
+		outline: 2px solid black;
+		width: 90%;
+		padding: 10px 40px;
+		margin: 0 auto 140px auto;
+		text-align: left;
+	}
 }
 a.private {
 	background-color: black;
