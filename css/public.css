@@ -1,10 +1,10 @@
 body {
-    font-size: 16px;
+    font-size: 125%;
 	background-color: white;
 }
-@media(min-width:900px){
+@media(min-width:60em){
 	body {
-		font-size:125%;
+		font-size:100%;
 	}
 }
 h1 {
@@ -34,21 +34,13 @@ p {
 div#main {
 	outline: 1px solid black;
 	width: 80%;
-	max-width: 600px;
-	min-width: 200px;
 	padding: 10px 40px;
 	margin: 0 auto 140px auto;
 	text-align: left;
+	max-width: 600px;
+	min-width: 200px;
 }
-@media(min-width:900px){
-	div#main {
-		outline: 2px solid black;
-		width: 90%;
-		padding: 10px 40px;
-		margin: 0 auto 140px auto;
-		text-align: left;
-	}
-}
+
 a.private {
 	background-color: black;
 	color: white;
