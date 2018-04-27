@@ -1,16 +1,12 @@
-dantnguyen.github.io
+kittakaj.github.io
 ====================
 
-## Hello world!
+## New Private Window Readme
 
-This is my first try at github!
+Hello, New Private Window is a website memoir by Joni Kittaka.
 
-My Github user page is at: 
-https://github.com/dantnguyen/
+New Private Window is hosted via github pages.
 
-My Github Pages repo can be found at:  
-https://github.com/dantnguyen/dantnguyen.github.io/
+Thanks for your interest!
 
-And, soon, you can see my customized homepage at:
-
-http://dantnguyen.github.io/
+jonikittaka.com
