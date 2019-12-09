@@ -1,0 +1,79 @@
+body {
+    font-size: 100%;
+	background-color: white;
+}
+/*@media(min-width:60em){
+	body {
+		font-size:100%;
+	}
+}*/
+h1 {
+    color: black;
+	margin: 20px 0 0 0;
+}
+h2 {
+	margin: 12px 0 4px 0;
+}
+h3 {
+	margin: 8px 0;
+}
+h4 {
+	margin: 4px 0;
+	font-size: 90%;
+}
+.subtitle {
+    font-style: italic;
+}
+p {
+    color: black;
+}
+.textcenter {
+	text-align: center;
+}
+
+div#main {
+	outline: 1px solid black;
+	width: 80%;
+	padding: 10px 40px;
+	margin: 0 auto 140px auto;
+	text-align: left;
+	max-width: 600px;
+	min-width: 200px;
+}
+
+a.private {
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	padding: 0 4px;
+}
+a:hover.private {
+	text-decoration: underline;
+}
+ol.photoessay li {
+	margin-bottom: 0.3em;
+}
+div.constrained {
+	border: 1px solid #AAA;
+	width: 200px;
+	height: 100px;
+	overflow: scroll;
+	padding: 4px 8px;
+}
+div.constrained p {
+	text-align: left;
+	margin-top: 0;
+}
+.centered {
+	margin: 0 auto;
+}
+.right {
+	float: right;
+}
+.left {
+	float: left;
+}
+div.footer {
+	width: 100%;
+	clear: both;
+}
